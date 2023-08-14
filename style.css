@@ -86,7 +86,7 @@ header {
   height: 900px;
   display: flex;
   align-items: center;
-  background: url(img/sp_bg01.png) no-repeat left top / cover;
+  background: url(img/sp_bg01.png) no-repeat center / cover;
   box-sizing: border-box;
 }
 
@@ -96,7 +96,7 @@ header {
   height: 900px;
   display: flex;
   align-items: center;
-  background: url(img/sp_bg02.png) no-repeat left top / cover;
+  background: url(img/sp_bg02.png) no-repeat center / cover;
   box-sizing: border-box;
 }
 
@@ -159,7 +159,6 @@ li img {
 .other li {
   display: inline-block;
   border-radius: 5px;
-  box-sizing: border-box;
 }
 
 .desc {

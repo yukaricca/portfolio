@@ -63,7 +63,8 @@ a:hover {
 header {
   margin: 0;
   min-height: 900px;
-  background: url(img/hero_sp.jpg) no-repeat center / cover;
+  background: url(img/hero_sp.jpg) no-repeat center center;
+  background-size:cover;  
   box-sizing: border-box;
 }
 
@@ -86,7 +87,8 @@ header {
   height: 900px;
   display: flex;
   align-items: center;
-  background: url(img/sp_bg01.png) no-repeat center / cover;
+  background: url(img/sp_bg01.png) no-repeat center center;
+  background-size:cover;  
   box-sizing: border-box;
 }
 
@@ -96,7 +98,8 @@ header {
   height: 900px;
   display: flex;
   align-items: center;
-  background: url(img/sp_bg02.png) no-repeat center / cover;
+  background: url(img/sp_bg02.png) no-repeat center center;
+  background-size:cover;  
   box-sizing: border-box;
 }
 
@@ -181,7 +184,8 @@ li img {
   header {
     margin: 0;
     min-height: 768px;
-    background: url(img/hero_pc.jpg) no-repeat center / cover;
+    background: url(img/hero_pc.jpg) no-repeat center center;
+    background-size:cover;  
     box-sizing: border-box;
   }
 
@@ -220,7 +224,8 @@ li img {
     height: 720px;
     display: flex;
     align-items: center;
-    background: url(img/pc_bg01.jpg) no-repeat center / cover;
+    background: url(img/pc_bg01.jpg) no-repeat center center;
+    background-size:cover;  
     box-sizing: border-box;
   }
 
@@ -231,7 +236,8 @@ li img {
     height: 720px;
     display: flex;
     align-items: center;
-    background: url(img/pc_bg02.jpg) no-repeat center / cover;
+    background: url(img/pc_bg02.jpg) no-repeat center center;
+    background-size:cover;  
     box-sizing: border-box;
   }
 

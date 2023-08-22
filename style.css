@@ -63,7 +63,8 @@ a:hover {
 
 header {
   margin: 0;
-  background: url(img/hero_sp.jpg) no-repeat center center;
+  min-height: 900px;
+  background: url(img/hero_sp.jpg) no-repeat center;
   background-size:cover;  
   box-sizing: border-box;
 }
@@ -87,7 +88,7 @@ header {
   height: 900px;
   display: flex;
   align-items: center;
-  background: url(img/sp_bg01.png) no-repeat center center;
+  background: url(img/sp_bg01.png) no-repeat center;
   background-size:cover;  
   box-sizing: border-box;
 }
@@ -98,7 +99,7 @@ header {
   height: 900px;
   display: flex;
   align-items: center;
-  background: url(img/sp_bg02.png) no-repeat center center;
+  background: url(img/sp_bg02.png) no-repeat center;
   background-size:cover;  
   box-sizing: border-box;
 }
